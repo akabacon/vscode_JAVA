@@ -1,4 +1,5 @@
-class test{
+package scanner;
+class try_catch{
   public static void main(String[] argv){
     String str = "25";
     try{

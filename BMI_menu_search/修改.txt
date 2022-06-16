@@ -1,0 +1,21 @@
+mary
+150
+50
+10
+20
+30
+john
+160
+60
+10
+20
+30
+dan
+170
+70
+10
+20
+30
+
+1.teacher profile
+2.teacher bmi
